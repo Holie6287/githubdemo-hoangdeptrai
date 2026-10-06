@@ -7,6 +7,7 @@ int main() {
     scanf("%d", &age);
 
     printf("Tuoi cua ban la: %d\n", age);
+    Printf("Them vao de test nha");
 
     return 0;
 }
